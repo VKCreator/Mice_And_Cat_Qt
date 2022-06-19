@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cat.png</file>
+        <file>cheese.jpg</file>
+        <file>rat1.png</file>
+        <file>rat2.png</file>
+        <file>rat3.png</file>
+        <file>04485.wav</file>
+        <file>intro_cat.png</file>
+        <file>sticker-png-gray-cat-removebg-preview.png</file>
+        <file>china_flag.png</file>
+        <file>Flag_of_Tatarstan.svg.png</file>
+        <file>germany_flag.png</file>
+        <file>russia_flag.png</file>
+        <file>united_kingdom_flag.png</file>
+        <file>449359103103a80.wav</file>
+        <file>stormrun.gif</file>
+        <file>stormrun(1).gif</file>
+        <file>premium-icon-skull.png</file>
+        <file>rat1Mirrorright.png</file>
+        <file>free-icon-star-1828884.png</file>
+        <file>screenshot_4-removebg-preview.q4oFO.png</file>
+        <file>7cf0c5055aa7b78.wav</file>
+    </qresource>
+</RCC>
